@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "170442702137",
+    "firebase_url": "https://videosession-7b180.firebaseio.com",
+    "project_id": "videosession-7b180",
+    "storage_bucket": "videosession-7b180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170442702137:android:84209b91e537c184d4fce8",
+        "android_client_info": {
+          "package_name": "com.gravitinfosystems.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170442702137-p6a5d303so4a8i3f4qqad44t250li1jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gravitinfosystems.firebaseapp",
+            "certificate_hash": "f82d84dc25dc98a19a5f1785e4a2dd8f0d49ab14"
+          }
+        },
+        {
+          "client_id": "170442702137-iubhtrti77cdpikofspur77d5nec4vdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbVeKayfq7SVtIZXEg-gTiQAb5Sq6CPOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170442702137-iubhtrti77cdpikofspur77d5nec4vdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
